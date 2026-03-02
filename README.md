@@ -11,4 +11,4 @@ Bu proje, Python ve SQLite kullanılarak geliştirilmiş, kişisel kitap koleksi
 ## 🛠️ Teknik Detaylar
 * **Dil:** Python 3.x
 * **Arayüz:** CustomTkinter
-* **Veritabanı:** SQLite3
+* **Veritabanı:** SQLite
