@@ -5,7 +5,7 @@ Bu proje, Python ve SQLite kullanılarak geliştirilmiş, kişisel kitap koleksi
 ## 🚀 Öne Çıkan Özellikler
 * **Veritabanı Entegrasyonu:** Kitap bilgileri SQLite kullanılarak kalıcı hale getirilmiştir.
 * **Modern Kullanıcı Arayüzü:** `CustomTkinter` kütüphanesi ile kullanıcı dostu ve şık bir arayüz tasarlanmıştır.
-* **CRUD İşlemleri:** Kitap ekleme, listeleme, güncelleme ve silme işlemleri başarıyla uygulanmıştır.
+* **Veritabanı İşlemleri:** Kitap ekleme, listeleme, güncelleme ve silme işlemleri başarıyla uygulanmıştır.
 * **Modüler Yapı:** Veritabanı ve arayüz kodları birbirinden ayrılarak temiz kod prensipleri gözetilmiştir.
 
 ## 🛠️ Teknik Detaylar
