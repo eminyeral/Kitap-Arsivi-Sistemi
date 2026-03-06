@@ -9,6 +9,6 @@ Bu proje, Python ve SQLite kullanılarak geliştirilmiş, kişisel kitap koleksi
 * **Modüler Yapı:** Veritabanı ve arayüz kodları birbirinden ayrılarak temiz kod prensipleri gözetilmiştir.
 
 ## Teknik Detaylar
-* **Dil:** Python 3.x
+* **Dil:** Python 3.12
 * **Arayüz:** CustomTkinter
 * **Veritabanı:** SQLite
